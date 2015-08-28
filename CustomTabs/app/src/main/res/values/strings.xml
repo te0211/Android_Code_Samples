@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomTabs</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_item_maps">maps</string>
+
+
+    <string name="location_tab_details">DETAILS</string>
+    <string name="location_tab_attractions">ATTRACTIONS</string>
+    <string name="location_tab_images">PHOTOS</string>
+</resources>
